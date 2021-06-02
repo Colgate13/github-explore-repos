@@ -20,6 +20,9 @@
 ## 💻 Project
 
 <img src="https://raw.githubusercontent.com/Colgate13/github-explore-repos/main/read/readme%20photos/Screenshot_23.png" alt="print of project"></img>
+<img src="https://raw.githubusercontent.com/Colgate13/github-explore-repos/main/read/readme%20photos/Screenshot_24.png" alt="print of project"></img>
+<img src="https://raw.githubusercontent.com/Colgate13/github-explore-repos/main/read/readme%20photos/Screenshot_25.png" alt="print of project"></img>
+
 
 ## Installation and run
 
