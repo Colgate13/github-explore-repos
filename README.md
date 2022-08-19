@@ -27,7 +27,7 @@
 ## Installation and run
 
 ```yarn 
-git clone https://github.com/Colgate13/bank-fluffly-backend.git
+git clone https://github.com/Colgate13/github-explore-repos.git
 yarn 
 npm install 
 yarn start
